@@ -9,7 +9,7 @@ os = "macos"
 [[Qt6Base]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c6c07bfd174301a89e2ff9cc2e92b43a8b03252"
+git-tree-sha1 = "69e0841830b8193acbca4a1c66c82672c54cfc9f"
 libc = "glibc"
 os = "linux"
 
