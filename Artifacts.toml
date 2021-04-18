@@ -6,3 +6,13 @@ os = "macos"
     [[Qt6Base.download]]
     sha256 = "154945718042f2d090e2e06dcce6c323e3410bd089454aa10d91c3c7d33c7e14"
     url = "https://github.com/barche/Qt6Base_jll.jl/releases/download/Qt6Base-v6.0.3+1/Qt6Base.v6.0.3.x86_64-apple-darwin.tar.gz"
+[[Qt6Base]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c6c07bfd174301a89e2ff9cc2e92b43a8b03252"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Base.download]]
+    sha256 = "c1412ad16bc4e62f2fc9aeb5dabea5897a9fd6b9c681cee50e9b296e7c904c58"
+    url = "https://github.com/barche/Qt6Base_jll.jl/releases/download/Qt6Base-v6.0.3+1/Qt6Base.v6.0.3.x86_64-linux-gnu-cxx11.tar.gz"
