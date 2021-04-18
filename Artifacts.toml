@@ -14,5 +14,5 @@ libc = "glibc"
 os = "linux"
 
     [[Qt6Base.download]]
-    sha256 = "c1412ad16bc4e62f2fc9aeb5dabea5897a9fd6b9c681cee50e9b296e7c904c58"
+    sha256 = "69f614ff933cb7897294c5844413cf6f591070d0f638bc110c4020591a5ebc24"
     url = "https://github.com/barche/Qt6Base_jll.jl/releases/download/Qt6Base-v6.0.3+1/Qt6Base.v6.0.3.x86_64-linux-gnu-cxx11.tar.gz"
