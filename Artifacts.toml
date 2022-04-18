@@ -1,14 +1,4 @@
 [[Qt6Base]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "69e0841830b8193acbca4a1c66c82672c54cfc9f"
-libc = "glibc"
-os = "linux"
-
-    [[Qt6Base.download]]
-    sha256 = "69f614ff933cb7897294c5844413cf6f591070d0f638bc110c4020591a5ebc24"
-    url = "https://github.com/barche/Qt6Base_jll.jl/releases/download/Qt6Base-v6.0.3+1/Qt6Base.v6.0.3.x86_64-linux-gnu-cxx11.tar.gz"
-[[Qt6Base]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "fee1217105cf0d1ba851d08dacebd96103608b0c"
@@ -36,3 +26,13 @@ os = "macos"
     [[Qt6Base.download]]
     sha256 = "8c1ff183014a6e3817a51a67288dbfa4e3b748d302eca9a3c851d8365919c65b"
     url = "https://github.com/barche/Qt6Base_jll.jl/releases/download/Qt6Base-v6.3.0+1/Qt6Base.v6.3.0.x86_64-apple-darwin.tar.gz"
+[[Qt6Base]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2219db48e1382df6006b23b0ae93b83ff6cb18d8"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Base.download]]
+    sha256 = "e4d1727e6bef2c7157ae5974188265b7c32e00c9dbe5e106aa5e4ca303b40355"
+    url = "https://github.com/barche/Qt6Base_jll.jl/releases/download/Qt6Base-v6.3.0+1/Qt6Base.v6.3.0.x86_64-linux-gnu-cxx11.tar.gz"
